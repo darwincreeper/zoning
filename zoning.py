@@ -142,3 +142,4 @@ while True:
         break
     else:
         print("\nUnknow Option Selected!\n")
+        time.sleep(1)
